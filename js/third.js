@@ -10,4 +10,5 @@ section.innerHTML = `
         <li>first item</li>
     </ul>
 `
-main.appendChild(section);
+// main.appendChild(section);
+main.nextSibling
